@@ -1,5 +1,6 @@
 package com.sparta.clf;
 
+//new classes
 public class SavingsAccount extends BankAccount {
     private final double interestRate;
 
