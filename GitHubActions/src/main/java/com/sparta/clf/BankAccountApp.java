@@ -1,5 +1,6 @@
 package com.sparta.clf;
 
+//newclass
 public class BankAccountApp {
     public static void main(String[] args) {
         BankAccount myAccount = new BankAccount(1000);
